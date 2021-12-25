@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
 project(extproj1 C)
 # create libextproj1.a
 # don't use include_directories(..)
